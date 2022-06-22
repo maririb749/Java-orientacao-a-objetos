@@ -25,7 +25,7 @@ public class Program_2 {
 		
 		// impressão provisória
 		
-		System.out.println(product.name + ","+ product.price + ","+ product.quantity);
+		System.out.println(product);
 		
 		
 		
